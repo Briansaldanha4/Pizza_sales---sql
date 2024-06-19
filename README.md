@@ -2,7 +2,7 @@
 
 Project Overview:
 
-This project utilizes SQL to analyze a dataset of pizza sales, aiming to discover valuable insights into sales operations. This includes customer segmentation, trends, artist effectiveness, customer interests, expenditure patterns, and revenue growth.
+This project uses SQL to analyse a pizza sales dataset in order to gain significant insights regarding sales operations. This comprises consumer segmentation, trends, artist effectiveness, customer preferences, spending habits, and revenue growth.
 
 Project Objectives:
 
