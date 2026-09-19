@@ -118,16 +118,6 @@ Pizza_sales---sql/
 
 ---
 
-## 🚀 Future Improvements
-
-* Build an interactive **Power BI dashboard**
-* Add monthly and yearly trend analysis
-* Analyze customer ordering behavior
-* Create product profitability analysis
-* Automate reporting
-
----
-
 ## 👤 Author
 
 **Brian Saldanha**
